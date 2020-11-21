@@ -1,6 +1,6 @@
 ## Welcome to YuFeeqy Pages
 
-你可以点击这里联系我：<a href="http://yuanyong@hbpu.edu.cn">我的邮箱</a>
+你可以点击这里联系我：yuanyong@hbpu.edu.cn
 
 ### Markdown
 
